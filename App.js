@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Mic, Activity, Moon, Sun, Shield, Globe, 
   ChevronRight, AlertCircle, FileText, Share2, 
-  Wind, Zap, HeartPulse, Stethoscope, Languages,risk,report, CloudOff,
+  Wind, Zap, HeartPulse, Stethoscope, Languages, CloudOff,
   Database, ZapOff, CheckCircle2, Quote, MessageSquare, Send, X, Bot
 } from 'lucide-react';
 // Change GiBrainShield to GiBrain or GiArtificialIntelligence
