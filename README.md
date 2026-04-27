@@ -5,7 +5,7 @@ This repository contains the frontend implementation of Swaas AI, a specialized 
 Tech Stack
 Framework: React.js
 Styling: CSS3 & Bootstrap
-Icons:** Lucide-React 
+Icons: Lucide-React 
 Animation: Custom CSS transitions
 
 Frontend Key Features
@@ -15,7 +15,7 @@ Responsive Design: Fully optimized for mobile, tablet, and desktop screens.
 Interactive UI Components: Custom-built navigation and modular sections for symptom tracking and voice-input interfaces.
 
 Key Files
-App.js: *The main hub of the application, managing the global state (like theme toggling) and component routing.
+App.js: The main hub of the application, managing the global state (like theme toggling) and component routing.
 
 Installation
 To view the frontend locally:
